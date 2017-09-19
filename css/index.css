@@ -166,6 +166,12 @@ hr {
   color: #fff;
   padding-bottom: 5%;
 }
+#experience {
+  padding-top: 5%;
+  background: #34495e;
+  color: #fff;
+  padding-bottom: 5%;
+}
 a:link {
     color: white;
 }
