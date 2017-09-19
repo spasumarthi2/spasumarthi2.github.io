@@ -160,15 +160,15 @@ hr {
   border: 1px solid rgba(0, 0, 0, 0.1);
   color: #eee !important;
 }
-#experience {
-  padding-top: 5%;
-  background: #F24C4E;
-  color: #fff;
-  padding-bottom: 5%;
-}
 #projects {
   padding-top: 5%;
   background: #EAB126;
+  color: #fff;
+  padding-bottom: 5%;
+}
+#experience {
+  padding-top: 5%;
+  background: #F24C4E;
   color: #fff;
   padding-bottom: 5%;
 }
