@@ -48,6 +48,8 @@ li {
 }
 
 .rounded {
+  	width: 250px !important;
+	height: 250px !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
