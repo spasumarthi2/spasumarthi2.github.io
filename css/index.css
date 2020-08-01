@@ -81,11 +81,8 @@ html>body .content {
 }
 #intro {
   padding-top: 10%;
-  background: rgb(39,174,96); /* Old browsers */
-  background: -moz-linear-gradient(45deg, rgba(39,174,96,1) 0%, rgba(26,188,156,1) 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(45deg, rgba(39,174,96,1) 0%,rgba(26,188,156,1) 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(45deg, rgba(39,174,96,1) 0%,rgba(26,188,156,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#27ae60', endColorstr='#1abc9c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: #4D6D9A; 
+  color: #fff;
   min-height: 100%;
 }
 #intro a {
@@ -162,13 +159,13 @@ hr {
 }
 #projects {
   padding-top: 5%;
-  background: #EAB126;
+  background: #86B3D1;
   color: #fff;
   padding-bottom: 5%;
 }
 #experience {
   padding-top: 5%;
-  background: #F24C4E;
+  background: #5F6366;
   color: #fff;
   padding-bottom: 5%;
 }
