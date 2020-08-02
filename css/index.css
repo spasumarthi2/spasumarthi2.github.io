@@ -157,7 +157,7 @@ hr {
   border: 1px solid rgba(0, 0, 0, 0.1);
   color: #eee !important;
 }
-#projects {
+#research {
   padding-top: 5%;
   background: #86B3D1;
   color: #fff;
@@ -166,6 +166,12 @@ hr {
 #experience {
   padding-top: 5%;
   background: #5F6366;
+  color: #fff;
+  padding-bottom: 5%;
+}
+#projects {
+  padding-top: 5%;
+  background: #99CED3;
   color: #fff;
   padding-bottom: 5%;
 }
